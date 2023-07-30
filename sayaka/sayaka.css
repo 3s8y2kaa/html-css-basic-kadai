@@ -1,0 +1,17 @@
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display:  inline-block;
+}
+.orange {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  display: inline-block;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+/* 赤とオレンジを横並びにする方法 */
